@@ -3,5 +3,5 @@ Code to product object through image and through webcam
 
 
 #how to run 
-1) mobilenet.html simple open this file on browser it predict item from image
-2)
+1) For predicting item from image=>open mobilenet.html on browser 
+2) For predicting item from webcam=> open index.html on browser
