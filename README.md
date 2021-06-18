@@ -1,10 +1,14 @@
 
 
-#intro:
-Predict the item from image or webcam and also gives the probability of prediction.
-* Technology used: javascript+ TensorFlow (a free and open-source software library for machine learning)
+# Overview:
+* This web app predicts the name of an item from an image or directly from your webcam.
+* It also gives the probability of prediction.
+
+## Technology used: 
+1. javascript
+1. TensorFlow (a free and open-source software library for machine learning)
 
 
-#how to run 
-1) For predicting item from image=>open mobilenet.html on browser 
-2) For predicting item from webcam=> open index.html on browser
+## Getting Started
+1. To use the image
+1. For predicting item from webcam=> open index.html on browser
